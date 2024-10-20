@@ -57,8 +57,7 @@ li a{
 .photo1{
     height:100vh;
     background-image: url(image.jpg);
-    background-repeat:no-repeat;
-    background-size: cover;    
+    width: 150vh;    
 }
 .article{
     background: #aff500;
