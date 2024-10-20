@@ -60,6 +60,15 @@ li a{
     background-repeat:no-repeat;
     background-size: cover;    
 }
+.article{
+    background: #aff500;
+    height: 100vh;
+}
+.article p{
+    fontsize:  1.2rem;
+    font-weight: bold;
+    font-style: poppions;
+}
 @media (max-width: 400px) {
     #logo li{
         font-size: 1.5rem;
